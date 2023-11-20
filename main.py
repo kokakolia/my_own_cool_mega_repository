@@ -3,6 +3,7 @@ def main():
     print('lalalala')
     print('kokakolia')
     print(1 + 3)
+    print(3333)
 
 
 if __name__ == '__main__':
